@@ -1,0 +1,7 @@
+Credits
+=======
+
+Licenses
+--------
+* MIT and GPLv3 licenses were retrieved from choosealicense.com
+* WTFPL retrieved from www.wtfpl.net
